@@ -1,10 +1,10 @@
 # Hi there, I'm Sagar 👋
 
-I'm a software engineer based in London, UK. I love building anything that has real world uses and exploring new technologies.
+I'm a software engineer based in London, UK. I love building things that have real world uses and exploring new technologies.
 
 ## 🔭 I’m currently working on
 
-- [Big Brain](https://www.usebigbrain.com), an AI tool to help extract knowledge from clusters of content creators in the field of engineering, startups and personal finance.
+[Big Brain](https://www.usebigbrain.com), an AI tool to help extract knowledge from clusters of content creators in the field of engineering, startups and personal finance.
 
 ## 🌱 I’m currently learning
 
@@ -14,7 +14,7 @@ I'm a software engineer based in London, UK. I love building anything that has r
 
 ## 👯 I’m looking to collaborate on
 
-- AI first projects ideally building AI agents that can help solve real world problems
+- AI first projects, ideally building AI agents that can help solve real world problems
 
 ## 💬 Ask me about
 
@@ -22,21 +22,69 @@ I'm a software engineer based in London, UK. I love building anything that has r
 
 - Currently I work at a YC backed startup so feel free to ask me about startups and the startup ecosystem
 
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/sagarshahuk/)
-- [YouTube](https://www.youtube.com/c/@sa64r)
-- [Instagram](https://www.instagram.com/sa64r/)
-
-
-<!-- ## ⚡ Fun fact
-
-- [Fun fact about yourself] -->
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sa64r&show_icons=true&theme=default)
 
 ## 🚀 Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa64r&layout=compact&theme=default)
+<a href='https://www.javascript.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/JavaScript-Black?style=for-the-badge&color=f7df1e' alt='JavaScript'>
+</a>
+<a href='https://www.typescriptlang.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/TypeScript-Black?style=for-the-badge&color=3178c6' alt='TypeScript'>
+</a>
+<a href='https://reactjs.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/React-Black?style=for-the-badge&color=61dafb' alt='React'>
+</a>
+<a href='https://nodejs.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Node.js-Black?style=for-the-badge&color=339933' alt='Node.js'>
+</a>
+<a href='https://www.python.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Python-Black?style=for-the-badge&color=3776ab' alt='Python'>
+</a>
+<a href='https://www.docker.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Docker-Black?style=for-the-badge&color=2496ed' alt='Docker'>
+</a>
+<a href='https://aws.amazon.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/AWS-Black?style=for-the-badge&color=232f3e' alt='AWS'>
+</a>
+<a href='https://www.postgresql.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/PostgreSQL-Black?style=for-the-badge&color=336791' alt='PostgreSQL'>
+</a>
+<a href='https://www.mongodb.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/MongoDB-Black?style=for-the-badge&color=47a248' alt='MongoDB'>
+</a>
+<a href='https://jestjs.io/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Jest-Black?style=for-the-badge&color=c21325' alt='Jest'>
+</a>
+<a href='https://nextjs.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Next.js-Black?style=for-the-badge&color=000000' alt='Next.js'>
+</a>
+<a href='https://www.terraform.io/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Terraform-Black?style=for-the-badge&color=623ce4' alt='Terraform'>
+</a>
+<a href='https://git-scm.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Git-Black?style=for-the-badge&color=f05032' alt='Git'>
+</a>
+<a href='https://www.datadoghq.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/DataDog-Black?style=for-the-badge&color=632ca6' alt='DataDog'>
+</a>
+<a href='https://vercel.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Vercel-Black?style=for-the-badge&color=000000' alt='Vercel'>
+</a>
+<a href='https://grpc.io/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Grpc-Black?style=for-the-badge&color=2db6e5' alt='gRPC'>
+</a>
+<a href='https://graphql.org/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/GrapQL-Black?style=for-the-badge&color=e10098' alt='GraphQL'>
+</a>
+<a href='https://openai.com/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/OpenAi-Black?style=for-the-badge&color=000000' alt='OpenAI'>
+</a>
+
+## 📫 How to reach me
+
+<a href='https://www.linkedin.com/in/sagarshahuk/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
+</a>
+<a href='https://instagram.com/sagarshahuk' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/Instagram-Black?style=for-the-badge&color=E1306C' alt='Instagram'>
+</a>
