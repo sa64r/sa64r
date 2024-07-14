@@ -8,9 +8,7 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 ## 🌱 I’m currently learning
 
-- Machine learning using the book [Mathematics for Machine Learning](https://mml-book.github.io/) and the book [The hundred-page machine learning book](http://themlbook.com/)
-
-- How to deploy AI first applications in the leanest way possible
+- How to build AI agents
 
 ## 👯 I’m looking to collaborate on
 
