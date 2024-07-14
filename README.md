@@ -83,6 +83,6 @@ I'm a software engineer based in London, UK. I love building things that have re
 <a href='https://www.linkedin.com/in/sagarshahuk/' style='text-decoration: none;'>
     <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
 </a>
-<a href='https://instagram.com/@sa64r' style='text-decoration: none;'>
+<a href='https://www.instagram.com/sa64r/' style='text-decoration: none;'>
     <img src='https://img.shields.io/badge/Instagram-Black?style=for-the-badge&color=E1306C' alt='Instagram'>
 </a>
