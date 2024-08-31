@@ -18,7 +18,9 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 - Academically I come from an aerospace engineering background so feel free to ask me about anything related to that
 
-- Currently I work at a YC backed startup so feel free to ask me about startups and the startup ecosystem
+- I've worked at a YC Startup that was in the process of turning into a scale up 
+
+- Currently I work at an early stage AI startup as a founding engineer building an agent for the recruiement industry
 
 
 ## 🚀 Languages and Tools
