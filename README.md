@@ -20,7 +20,7 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 - I've worked at a YC Startup that was in the process of turning into a scale up 
 
-- Currently I work at an early stage AI startup as a founding engineer building an agent for the recruiement industry
+- Currently I'm engineer number 2 at an early stage AI startup as a founding engineer building an agent for the recruiement industry
 
 
 ## 🚀 Languages and Tools
