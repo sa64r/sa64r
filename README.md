@@ -4,7 +4,7 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 ## 🔭 I’m currently working on
 
-[Big Brain](https://www.usebigbrain.com), an AI tool to help extract knowledge from clusters of content creators in the field of engineering, startups and personal finance.
+[Tano](https://www.trytan.com), an AI agent to automate influencer marketing and engineer virality to make brands known.
 
 ## 🌱 I’m currently learning
 
