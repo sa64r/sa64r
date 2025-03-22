@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar 👋
 
-I'm a software engineer based in London, UK. I love building things that have real world uses and exploring new technologies.
+I'm a co-founder @ Tano based in London, UK. I love building things that have real world uses and exploring new technologies.
 
 ## 🔭 I’m currently working on
 
@@ -12,11 +12,9 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 ## 💬 Ask me about
 
-- Academically I come from an aerospace engineering background so feel free to ask me about anything related to that
-
-- I've worked at a YC Startup that was in the process of turning into a scale up 
-
-- Currently I'm engineer number 2 at an early stage AI startup as a founding engineer building an agent for the recruiement industry
+- Building AI agents
+- Startups
+- Influencer marketing
 
 
 ## 🚀 Languages and Tools
