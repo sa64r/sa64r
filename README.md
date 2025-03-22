@@ -4,7 +4,7 @@ I'm a co-founder @ Tano based in London, UK. I love building things that have re
 
 ## 🔭 I’m currently working on
 
-[Tano](https://www.trytan.com), an AI agent to automate influencer marketing and engineer virality to make brands known.
+[Tano](https://www.trytano.com), an AI agent to automate influencer marketing and engineer virality to make brands known.
 
 ## 🌱 I’m currently learning
 
