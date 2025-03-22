@@ -8,11 +8,7 @@ I'm a software engineer based in London, UK. I love building things that have re
 
 ## 🌱 I’m currently learning
 
-- How to build AI agents
-
-## 👯 I’m looking to collaborate on
-
-- AI first projects, ideally building AI agents that can help solve real world problems
+- How to build AI agents for marketing
 
 ## 💬 Ask me about
 
